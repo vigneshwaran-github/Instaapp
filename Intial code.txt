@@ -14,4 +14,4 @@ adding the audio call
 
 adding the video call feature
 
-added live map
+added live map and live location
